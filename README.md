@@ -18,36 +18,6 @@ Implement OOP principles and modular programming.
 
 Provide a simple, interactive console interface.
 
-### Project Structure
-
-employee_performance_tracker/
-
-│
-
-├── data/
-
-│   └── employees.csv   → Stores employee data
-
-│
-
-├── src/
-
-│   ├── __init__.py            → Marks folder as a Python package
-
-│   ├── main.py                → Main menu program
-
-│   ├── employee.py            → Employee class (model)
-
-│   ├── storage.py             → CSV read/write logic
-
-│   ├── analysis.py            → Performance analysis functions
-
-│   ├── visualize.py           → Chart generation and plotting
-
-│
-
-└── requirement.txt                → Libraries
-
 ### Features
 
 ✅ Add new employee data
