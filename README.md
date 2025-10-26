@@ -4,7 +4,7 @@
 
 The Employee Performance Tracker is a Python-based system designed to manage and analyze employee performance data in an IT company.
 It helps track details such as employee name, department, hours worked, tasks completed, and performance rating.
-The project demonstrates practical applications of OOP, File Handling, Functions, and Data Visualization concepts from Python Phase 1.
+The project demonstrates practical applications of OOP, File Handling, Functions, and Data Visualization concepts 
 
 ### Objectives
 
