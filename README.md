@@ -30,7 +30,7 @@ Provide a simple, interactive console interface.
 
 ✅ Export top performer data into CSV
 
-✅ Select “Employee of the Month” automatically (bonus)
+✅ Select “Employee of the Month” automatically
 
 ### Concepts 
 
@@ -51,14 +51,6 @@ Bar chart of Performance Rating
 Scatter plot of Task Completed vs Performance Rating
 
 Pie chart showing Distribution of Performance Rating
-
-### Bonus Challenges
-
-Auto-select Employee of the Month
-
-Export top performer data to top_performers.csv
-
-Create advanced charts with Seaborn
 
 ### Technologies Used
 
