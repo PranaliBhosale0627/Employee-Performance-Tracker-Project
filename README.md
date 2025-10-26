@@ -50,7 +50,7 @@ Bar chart of Performance Rating
 
 Scatter plot of Task Completed vs Performance Rating
 
-Pie chart showing Distribution of Perfromance Rating
+Pie chart showing Distribution of Performance Rating
 
 ### Bonus Challenges
 
